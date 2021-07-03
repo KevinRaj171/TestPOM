@@ -6,7 +6,7 @@ import Action.actionsClass;
 import Data.dataFetch;
 
 public class homePage extends actionsClass {
-	
+	//This is home page
 	public homePage(WebDriver driver){
 		this.driver=driver;
 	}
